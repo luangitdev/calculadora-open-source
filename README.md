@@ -38,9 +38,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## Status do Projeto
 
-![GitHub issues](https://img.shields.io/github/issues/seuusername/calculadora-open-source)
-![GitHub stars](https://img.shields.io/github/stars/seuusername/calculadora-open-source)
-![GitHub forks](https://img.shields.io/github/forks/seuusername/calculadora-open-source)
+![GitHub issues](https://img.shields.io/github/issues/luangitdev/calculadora-open-source)
+![GitHub stars](https://img.shields.io/github/stars/luangitdev/calculadora-open-source)
+![GitHub forks](https://img.shields.io/github/forks/luangitdev/calculadora-open-source)
 
 ## Licença
 
